@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Jetroid/Scenes/SplashScreen.unity
+    guid: 3084155e1d64b4b31ad67df40cf494ec
+  - enabled: 1
+    path: Assets/Jetroid/Scenes/GameStaging.unity
+    guid: 99bb00c234c5b42d0b4b18471bb8da05
+  m_configObjects: {}
